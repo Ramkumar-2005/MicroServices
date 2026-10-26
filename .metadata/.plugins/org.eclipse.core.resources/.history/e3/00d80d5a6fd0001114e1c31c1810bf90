@@ -1,0 +1,15 @@
+package com.product_service.client;
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+
+@FeignClient(
+	name="Product",
+	url="http://localhost:6001")
+		
+public interface  Product {
+
+	@GetMapping("/orders/{id}")
+	public void getProduct(@PathVariable Integer id);
+}

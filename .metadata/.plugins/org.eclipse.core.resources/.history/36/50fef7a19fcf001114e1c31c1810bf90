@@ -1,0 +1,26 @@
+package com.product_service.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/products")
+public class ProductController {
+	
+	
+	    @PostMapping("/insert")
+		public String insert() {
+			return "Product inserted";
+			
+		}
+		 
+	    @GetMapping("/fetch")
+		public String fetch() {
+			return "Product fetch";
+			
+		}
+
+
+}

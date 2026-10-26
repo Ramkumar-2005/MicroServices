@@ -1,0 +1,12 @@
+package com.product_service.client;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(
+	name:"ProductClient",
+	url:"loca"
+		)
+		
+public interface ProductClient {
+
+}

@@ -449,3 +449,330 @@
 2026-10-25 12:46:33.829: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-10-25 12:46:33.829: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-10-25 13:38:02.269: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 09:39:12.253: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 09:39:12.253: [INFO] Profiles total count: 1
+2026-10-27 09:39:12.253: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 09:39:12.253: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 09:39:12.253: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 09:39:12.253: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 09:39:12.253: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 09:39:12.253: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 09:39:12.253: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 09:39:13.092: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 09:45:24.134: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 09:45:24.134: [INFO] Profiles total count: 1
+2026-10-27 09:45:24.134: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 09:45:24.134: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 09:45:24.134: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 09:45:24.134: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 09:45:24.134: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 09:45:24.134: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 09:45:24.134: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 09:45:29.435: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 09:45:39.242: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 09:45:39.242: [INFO] Profiles total count: 1
+2026-10-27 09:45:39.243: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 09:45:39.243: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 09:45:39.243: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 09:45:39.243: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 09:45:39.243: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 09:45:39.243: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 09:45:39.243: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 09:45:39.318: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 09:54:32.078: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 09:54:32.078: [INFO] Profiles total count: 1
+2026-10-27 09:54:32.078: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 09:54:32.078: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 09:54:32.078: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 09:54:32.078: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 09:54:32.078: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 09:54:32.078: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 09:54:32.078: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 09:56:36.597: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 10:00:32.643: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 10:00:32.643: [INFO] Profiles total count: 1
+2026-10-27 10:00:32.643: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 10:00:32.643: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 10:00:32.643: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 10:00:32.643: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 10:00:32.643: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 10:00:32.643: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 10:00:32.643: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 10:00:50.776: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 10:00:54.168: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 10:00:54.168: [INFO] Profiles total count: 1
+2026-10-27 10:00:54.168: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 10:00:54.168: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 10:00:54.168: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 10:00:54.168: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 10:00:54.168: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 10:00:54.168: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 10:00:54.168: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 10:03:13.061: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 10:03:35.838: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 10:03:35.838: [INFO] Profiles total count: 1
+2026-10-27 10:03:35.838: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 10:03:35.839: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 10:03:35.839: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 10:03:35.839: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 10:03:35.839: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 10:03:35.839: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 10:03:35.839: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 10:03:35.904: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 10:04:58.260: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 10:04:58.260: [INFO] Profiles total count: 1
+2026-10-27 10:04:58.260: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 10:04:58.260: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 10:04:58.260: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 10:04:58.260: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 10:04:58.260: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 10:04:58.260: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 10:04:58.260: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 10:05:18.941: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 10:05:50.951: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 10:05:50.951: [INFO] Profiles total count: 1
+2026-10-27 10:05:50.951: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 10:05:50.951: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 10:05:50.951: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 10:05:50.951: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 10:05:50.951: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 10:05:50.951: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 10:05:50.951: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 10:06:18.075: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 10:10:04.778: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 10:10:04.778: [INFO] Profiles total count: 1
+2026-10-27 10:10:04.778: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 10:10:04.778: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 10:10:04.778: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 10:10:04.778: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 10:10:04.778: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 10:10:04.778: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 10:10:04.778: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 12:52:48.416: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 12:54:01.737: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 12:54:01.737: [INFO] Profiles total count: 1
+2026-10-27 12:54:01.737: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 12:54:01.738: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 12:54:01.738: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 12:54:01.738: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 12:54:01.738: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 12:54:01.738: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 12:54:01.738: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 12:54:01.800: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 12:56:29.417: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 12:56:29.417: [INFO] Profiles total count: 1
+2026-10-27 12:56:29.417: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 12:56:29.417: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 12:56:29.417: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 12:56:29.417: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 12:56:29.417: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 12:56:29.417: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 12:56:29.417: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 12:56:40.331: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 12:57:22.269: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 12:57:22.269: [INFO] Profiles total count: 1
+2026-10-27 12:57:22.269: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 12:57:22.269: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 12:57:22.269: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 12:57:22.269: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 12:57:22.269: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 12:57:22.269: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 12:57:22.269: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 12:57:59.803: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 12:58:14.556: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 12:58:14.556: [INFO] Profiles total count: 1
+2026-10-27 12:58:14.557: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 12:58:14.557: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 12:58:14.557: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-27 12:58:14.557: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 12:58:14.557: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 12:58:14.557: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 12:58:14.557: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 13:04:46.838: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 10:16:16.582: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 10:16:16.582: [INFO] Profiles total count: 1
+2026-10-28 10:16:16.582: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 10:16:16.582: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 10:16:16.582: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 10:16:16.582: [INFO] OnDoneLoading sync enabled: 0
+2026-10-28 10:16:16.582: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-28 10:16:16.582: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-28 10:16:16.582: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 10:16:16.643: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 10:16:36.549: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 10:16:36.549: [INFO] Profiles total count: 1
+2026-10-28 10:16:36.549: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 10:16:36.549: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 10:16:36.549: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 10:16:36.549: [INFO] OnDoneLoading sync enabled: 0
+2026-10-28 10:16:36.549: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-28 10:16:36.549: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-28 10:16:36.549: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 10:16:38.753: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 10:16:47.065: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 10:16:47.065: [INFO] Profiles total count: 1
+2026-10-28 10:16:47.066: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 10:16:47.066: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 10:16:47.066: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 10:16:47.066: [INFO] OnDoneLoading sync enabled: 0
+2026-10-28 10:16:47.066: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-28 10:16:47.066: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-28 10:16:47.066: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 10:23:57.443: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 10:27:07.557: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 10:27:07.557: [INFO] Profiles total count: 1
+2026-10-28 10:27:07.557: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 10:27:07.557: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 10:27:07.557: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 10:27:07.557: [INFO] OnDoneLoading sync enabled: 0
+2026-10-28 10:27:07.557: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-28 10:27:07.557: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-28 10:27:07.557: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 11:24:55.811: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 11:25:02.676: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 11:25:02.676: [INFO] Profiles total count: 1
+2026-10-28 11:25:02.676: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 11:25:02.676: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 11:25:02.676: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 11:25:02.676: [INFO] OnDoneLoading sync enabled: 0
+2026-10-28 11:25:02.676: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-28 11:25:02.676: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-28 11:25:02.676: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 11:56:46.471: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 12:00:13.197: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 12:00:13.198: [INFO] Profiles total count: 1
+2026-10-28 12:00:13.198: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 12:00:13.198: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 12:00:13.198: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 12:00:13.198: [INFO] OnDoneLoading sync enabled: 0
+2026-10-28 12:00:13.198: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-28 12:00:13.198: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-28 12:00:13.198: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 12:11:21.946: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 12:20:51.816: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 12:20:51.816: [INFO] Profiles total count: 1
+2026-10-28 12:20:51.816: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 12:20:51.816: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 12:20:51.816: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 12:20:51.816: [INFO] OnDoneLoading sync enabled: 0
+2026-10-28 12:20:51.816: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-28 12:20:51.816: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-28 12:20:51.816: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 12:47:05.341: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 12:47:27.204: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 12:47:27.204: [INFO] Profiles total count: 1
+2026-10-28 12:47:27.204: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 12:47:27.204: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 12:47:27.204: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 12:47:27.204: [INFO] OnDoneLoading sync enabled: 0
+2026-10-28 12:47:27.204: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-28 12:47:27.204: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-28 12:47:27.204: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 12:47:27.306: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 12:47:28.867: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 12:47:28.867: [INFO] Profiles total count: 1
+2026-10-28 12:47:28.867: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 12:47:28.867: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 12:47:28.867: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 12:47:28.867: [INFO] OnDoneLoading sync enabled: 0
+2026-10-28 12:47:28.867: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-28 12:47:28.867: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-28 12:47:28.867: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 12:47:35.224: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 12:48:22.275: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 12:48:22.275: [INFO] Profiles total count: 1
+2026-10-28 12:48:22.275: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 12:48:22.275: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-28 12:48:22.275: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-28 12:48:22.275: [INFO] OnDoneLoading sync enabled: 0
+2026-10-28 12:48:22.275: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-28 12:48:22.275: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-28 12:48:22.275: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-28 13:37:17.473: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 09:29:38.936: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-29 09:29:38.936: [INFO] Profiles total count: 1
+2026-10-29 09:29:38.936: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-29 09:29:38.936: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-29 09:29:38.936: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-29 09:29:38.936: [INFO] OnDoneLoading sync enabled: 0
+2026-10-29 09:29:38.936: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-29 09:29:38.936: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-29 09:29:38.936: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 09:30:16.207: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 09:30:33.235: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-29 09:30:33.235: [INFO] Profiles total count: 1
+2026-10-29 09:30:33.235: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-29 09:30:33.235: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-29 09:30:33.235: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-29 09:30:33.235: [INFO] OnDoneLoading sync enabled: 0
+2026-10-29 09:30:33.235: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-29 09:30:33.235: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-29 09:30:33.235: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 09:41:33.701: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 10:49:06.564: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-29 10:49:06.564: [INFO] Profiles total count: 1
+2026-10-29 10:49:06.564: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-29 10:49:06.564: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-29 10:49:06.564: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-29 10:49:06.564: [INFO] OnDoneLoading sync enabled: 0
+2026-10-29 10:49:06.564: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-29 10:49:06.564: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-29 10:49:06.564: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 11:20:27.636: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 11:22:21.607: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-29 11:22:21.607: [INFO] Profiles total count: 1
+2026-10-29 11:22:21.607: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-29 11:22:21.607: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-29 11:22:21.607: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-29 11:22:21.607: [INFO] OnDoneLoading sync enabled: 0
+2026-10-29 11:22:21.607: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-29 11:22:21.607: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-29 11:22:21.607: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 11:28:10.265: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 11:28:50.043: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-29 11:28:50.043: [INFO] Profiles total count: 1
+2026-10-29 11:28:50.044: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-29 11:28:50.044: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-29 11:28:50.044: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-29 11:28:50.044: [INFO] OnDoneLoading sync enabled: 0
+2026-10-29 11:28:50.044: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-29 11:28:50.044: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-29 11:28:50.044: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 11:50:51.352: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 11:53:48.840: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-29 11:53:48.840: [INFO] Profiles total count: 1
+2026-10-29 11:53:48.840: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-29 11:53:48.840: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-29 11:53:48.840: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-29 11:53:48.840: [INFO] OnDoneLoading sync enabled: 0
+2026-10-29 11:53:48.840: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-29 11:53:48.840: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-29 11:53:48.840: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-29 12:41:06.080: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-29 12:41:06.080: [INFO] Profiles total count: 1
+2026-10-29 12:41:06.080: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-29 12:41:06.080: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-29 12:41:06.080: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-29 12:41:06.080: [INFO] OnDoneLoading sync enabled: 0
+2026-10-29 12:41:06.080: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-29 12:41:06.080: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-29 12:41:06.080: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-31 09:00:07.352: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-31 09:00:07.352: [INFO] Profiles total count: 1
+2026-10-31 09:00:07.352: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-31 09:00:07.352: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-31 09:00:07.352: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-31 09:00:07.352: [INFO] OnDoneLoading sync enabled: 0
+2026-10-31 09:00:07.352: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-31 09:00:07.352: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-31 09:00:07.352: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-31 09:00:17.477: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-31 09:00:31.472: [INFO] CurrentProfilePath: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-31 09:00:31.472: [INFO] Profiles total count: 1
+2026-10-31 09:00:31.472: [INFO] Profile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-31 09:00:31.472: [INFO] LastUsedProfileDir: C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-31 09:00:31.472: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\Asus\OneDrive\Desktop\QSpider\SpringBoot\MicroService\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-24T11:54:58.452Z
+2026-10-31 09:00:31.472: [INFO] OnDoneLoading sync enabled: 0
+2026-10-31 09:00:31.472: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-31 09:00:31.472: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-31 09:00:31.472: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
